@@ -4,8 +4,8 @@
 **fernandotimm/fernandotimm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on a prototype for my dev portfolio
-- 🌱 I’m currently learning DynamoDB (trying out Dynamoose and the AWS SDK for JS)
+- 🔭  I’m currently working on a prototype for my dev portfolio
+- 🌱  I'm currently starting on web 3.0, building a front-end interface for a smart contract with React and Ethers.js
 
 - 📫 How to reach me: 
 [![Twitter Badge](https://img.shields.io/twitter/url?label=%40fhellwig&url=https%3A%2F%2Ftwitter.com%2Ffhellwig)](https://twitter.com/fhellwig)
